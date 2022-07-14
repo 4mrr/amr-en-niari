@@ -30,7 +30,7 @@ I am a student in 2nd year cycle of computer engineering in National School of A
 - Programming languages:
   - Python
   - JAVA
-  - C/C++
+  - C/C#
   - PHP
 - My hobbies are : 
   - Study about hacking
@@ -39,7 +39,7 @@ I am a student in 2nd year cycle of computer engineering in National School of A
   - Soccer
 - My Activities in CyberSecurity 🔐 :
   <p align="left" >
-    - <b>TOP 28 in Morocco TryHackme>🔥</b></p>
+    - <b>TOP 16 in Morocco TryHackme>🔥</b></p>
       <p align="left" >
     - <b>TOP 50 in Morocco HackTheBox>🔥</b></p>
       <a href="https://tryhackme.com/p/4mr" target="_blank">
