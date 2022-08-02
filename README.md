@@ -39,9 +39,9 @@ I am a student in 2nd year cycle of computer engineering in National School of A
   - Soccer
 - My Activities in CyberSecurity 🔐 :
   <p align="left" >
-    - <b>TOP 16 in Morocco TryHackme>🔥</b></p>
+    - <b>TOP 16 in Morocco TryHackme 🔥</b></p>
       <p align="left" >
-    - <b>TOP 50 in Morocco HackTheBox>🔥</b></p>
+    - <b>TOP 50 in Morocco HackTheBox 🔥</b></p>
       <a href="https://tryhackme.com/p/4mr" target="_blank">
         <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/e75903ecb45ecd77c5635918f87e1a08.png" width="48px" height="48px">
       </a>
