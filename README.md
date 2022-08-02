@@ -34,7 +34,7 @@ I am a student in 2nd year cycle of computer engineering in National School of A
   - PHP
 - My hobbies are : 
   - Study about hacking
-  - Play Challenges
+  - Play Challenges CTFs
   - Travel
   - Soccer
 - My Activities in CyberSecurity 🔐 :
