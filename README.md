@@ -18,7 +18,7 @@ My name is <b> EN-NIARI AMR</b>
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <p align="left" >
-I am a student in 2nd year cycle of computer engineering in National School of Applied Sciences of Tangier. I am very interested in the field of computer science. Designing, programming and solving problems, as well as evaluating the quality of the product especially at the level of security, analyzing and testing the level of security in different environments (Mobile, Web, Desktop) by penetration tests seems to me to be one of the essential challenges for the IT of tomorrow..
+I am a student in last year cycle of computer engineering in National School of Applied Sciences of Tangier. I am very interested in the field of computer science. Designing, programming and solving problems, as well as evaluating the quality of the product especially at the level of security, analyzing and testing the level of security in different environments (Mobile, Web, Desktop) by penetration tests seems to me to be one of the essential challenges for the IT of tomorrow..
 </p>
 <p align="left" >
 </p>
